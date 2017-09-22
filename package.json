@@ -12,5 +12,5 @@
     "jwt-simple": "^0.5.1",
     "mongodb": "^2.2.31"
   },
-  "devDependencies": {}
+  "private": true
 }
